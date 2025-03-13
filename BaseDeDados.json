@@ -1,0 +1,20 @@
+Base de dados
+
+Aqui está uma base de dados com 10 itens nos atributos que você pediu:  
+
+```json
+[
+  { "id": 1, "nome": "Notebook Gamer", "descricao": "Notebook com processador i7 e GPU dedicada", "preco": 7500.00, "quantidade": 5 },
+  { "id": 2, "nome": "Mouse Sem Fio", "descricao": "Mouse ergonômico com sensor óptico de alta precisão", "preco": 150.00, "quantidade": 20 },
+  { "id": 3, "nome": "Teclado Mecânico", "descricao": "Teclado mecânico RGB com switches red", "preco": 350.00, "quantidade": 15 },
+  { "id": 4, "nome": "Monitor 27''", "descricao": "Monitor IPS 144Hz com resolução 2K", "preco": 1800.00, "quantidade": 8 },
+  { "id": 5, "nome": "Cadeira Gamer", "descricao": "Cadeira ergonômica com ajuste de altura e inclinação", "preco": 1200.00, "quantidade": 10 },
+  { "id": 6, "nome": "Headset Bluetooth", "descricao": "Headset sem fio com cancelamento de ruído", "preco": 500.00, "quantidade": 12 },
+  { "id": 7, "nome": "Smartphone", "descricao": "Celular com tela AMOLED 120Hz e 256GB de armazenamento", "preco": 4500.00, "quantidade": 6 },
+  { "id": 8, "nome": "SSD NVMe 1TB", "descricao": "SSD de alta velocidade PCIe 4.0", "preco": 700.00, "quantidade": 18 },
+  { "id": 9, "nome": "Placa de Vídeo", "descricao": "GPU RTX 4070 com 12GB de VRAM", "preco": 3500.00, "quantidade": 7 },
+  { "id": 10, "nome": "Fonte 750W", "descricao": "Fonte modular 80 Plus Gold", "preco": 600.00, "quantidade": 14 }
+]
+```
+
+Caso precise de outro formato (SQL, CSV, XML), me avise! 🚀

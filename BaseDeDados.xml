@@ -1,0 +1,72 @@
+<produtos>
+    <produto>
+        <id>1</id>
+        <nome>Notebook Gamer</nome>
+        <descricao>Notebook com processador i7 e GPU dedicada</descricao>
+        <preco>7500.00</preco>
+        <quantidade>5</quantidade>
+    </produto>
+    <produto>
+        <id>2</id>
+        <nome>Mouse Sem Fio</nome>
+        <descricao>Mouse ergonômico com sensor óptico de alta precisão</descricao>
+        <preco>150.00</preco>
+        <quantidade>20</quantidade>
+    </produto>
+    <produto>
+        <id>3</id>
+        <nome>Teclado Mecânico</nome>
+        <descricao>Teclado mecânico RGB com switches red</descricao>
+        <preco>350.00</preco>
+        <quantidade>15</quantidade>
+    </produto>
+    <produto>
+        <id>4</id>
+        <nome>Monitor 27"</nome>
+        <descricao>Monitor IPS 144Hz com resolução 2K</descricao>
+        <preco>1800.00</preco>
+        <quantidade>8</quantidade>
+    </produto>
+    <produto>
+        <id>5</id>
+        <nome>Cadeira Gamer</nome>
+        <descricao>Cadeira ergonômica com ajuste de altura e inclinação</descricao>
+        <preco>1200.00</preco>
+        <quantidade>10</quantidade>
+    </produto>
+    <produto>
+        <id>6</id>
+        <nome>Headset Bluetooth</nome>
+        <descricao>Headset sem fio com cancelamento de ruído</descricao>
+        <preco>500.00</preco>
+        <quantidade>12</quantidade>
+    </produto>
+    <produto>
+        <id>7</id>
+        <nome>Smartphone</nome>
+        <descricao>Celular com tela AMOLED 120Hz e 256GB de armazenamento</descricao>
+        <preco>4500.00</preco>
+        <quantidade>6</quantidade>
+    </produto>
+    <produto>
+        <id>8</id>
+        <nome>SSD NVMe 1TB</nome>
+        <descricao>SSD de alta velocidade PCIe 4.0</descricao>
+        <preco>700.00</preco>
+        <quantidade>18</quantidade>
+    </produto>
+    <produto>
+        <id>9</id>
+        <nome>Placa de Vídeo</nome>
+        <descricao>GPU RTX 4070 com 12GB de VRAM</descricao>
+        <preco>3500.00</preco>
+        <quantidade>7</quantidade>
+    </produto>
+    <produto>
+        <id>10</id>
+        <nome>Fonte 750W</nome>
+        <descricao>Fonte modular 80 Plus Gold</descricao>
+        <preco>600.00</preco>
+        <quantidade>14</quantidade>
+    </produto>
+</produtos>
