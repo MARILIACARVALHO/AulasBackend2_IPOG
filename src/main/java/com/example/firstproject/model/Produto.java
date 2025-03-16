@@ -1,11 +1,31 @@
 package com.example.firstproject.model;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+// caso o nome da tabela fosse igual o nome da classe não precisava do parentese p/ declarar
+@Entity
+@Table(name = "tb_produto")
 public class Produto {
 
+    // não precisa da anotação completa pq neste caso, o banco de dados foi criado
+    // com o nome dos atributos iguais:
+    @Id
+    @Column(name = "id")
     private String id;
+
+    @Column
     private String nome;
+
+    @Column
     private String descricao;
+
+    @Column
     private Double preco;
+
+    @Column
     private int quantidade;
 
     public Produto() {
@@ -51,7 +71,7 @@ public class Produto {
     }
 
     public void setPreco(Double preco) {
-        this.preco = preco; 
+        this.preco = preco;
     }
 
     public int getQuantidade() {
